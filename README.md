@@ -18,6 +18,7 @@ I build language models for problems where mistakes are costly: online safety, p
 
 ### 📚 Selected publications
 
+- 🆕 **UrduGrad Schemas: A Benchmark for Urdu Commonsense Reasoning**, GlobalSouthAI Workshop @ *NeurIPS 2026* (accepted) · with M. Ahmad, G. Ataguba, R. Orji
 - **A Large Language Model-Based Approach for Multilingual Hate Speech Detection on Social Media**, *Computers*, 2025 · [DOI](https://doi.org/10.3390/computers14070279)
 - **An Attention-Enhanced Explainable Hybrid Deep Learning Framework for Multilingual Opioid Overdose Detection on Reddit**, *Computación y Sistemas*, 2026
 - **Toward Bias-Aware and Efficient Offensive Language Detection Using QLoRA-Optimized LLaMA and GPT Models**, MICAI 2025
